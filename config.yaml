@@ -1,0 +1,8 @@
+path: "/content/gdrive/MyDrive/_MEng/2nd Sem/MIE1517/Project/fractureDetection/" # dataset root dir
+train: images/train # train images
+val: images/val # val images
+
+# Classes
+names:
+  0: fracture
+  1: depth
